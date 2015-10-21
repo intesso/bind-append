@@ -1,11 +1,14 @@
 # bind-append
 
-> Creates a new function with the given `this` and the appended arguments.
-
-- It works like Function.prototype.bind,
-- but does not pollute Function.prototype
-- and appends the arguments to the new Function arguments,
-- instead of prepending them.
+> **Creates a new function with the given `this` and the appended arguments.**
+>
+> . It works like Function.prototype.bind
+>
+> .. but does not pollute Function.prototype
+>
+> ... and appends the arguments to the new Function arguments
+>
+> .... instead of prepending them
 
 # install
 
@@ -29,6 +32,12 @@ assert.equal(fn(1), 3);
 assert.equal(fn(2), 5);
 
 ```
+
+# test
+```sh
+npm test
+```
+
 
 # API
 
