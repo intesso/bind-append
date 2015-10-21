@@ -1,0 +1,27 @@
+{
+  "name": "bind-append",
+  "version": "1.0.0",
+  "description": "Creates a new function with the given `this` and the appended arguments.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intesso/bind-append.git"
+  },
+  "keywords": [
+    "bind",
+    "append",
+    "Function.prototype.bind",
+    "function"
+  ],
+  "author": "Andi Neck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intesso/bind-append/issues"
+  },
+  "homepage": "https://github.com/intesso/bind-append#readme"
+}
