@@ -1,6 +1,6 @@
 {
   "name": "bind-append",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a new function with the given `this` and the appended arguments.",
   "main": "index.js",
   "dependencies": {},
